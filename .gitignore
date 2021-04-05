@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+target/
+
+.vscode/
+
+.idea
+*.iws
+*.iml
+*.ipr
